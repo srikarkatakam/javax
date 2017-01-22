@@ -16,6 +16,7 @@ public class exp {
 			track.add(new MidiEvent(a,16));
 			sq.setSequence(s);
 			sq.start();
+			yooo how r u;
 		}
 		catch(Exception e){
 			
